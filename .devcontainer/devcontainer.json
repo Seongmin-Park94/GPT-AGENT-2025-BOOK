@@ -1,0 +1,8 @@
+{
+  "name": "GPT Agent",
+  "remoteEnv": {
+    "PYTHONIOENCODING": "utf-8",
+    "LANG": "ko_KR.UTF-8"
+  },
+  "postCreateCommand": "pip install -r requirements.txt"
+}

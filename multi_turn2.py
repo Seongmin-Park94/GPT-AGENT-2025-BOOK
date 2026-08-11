@@ -1,7 +1,3 @@
-import sys
-sys.stdout.reconfigure(encoding='utf-8')
-sys.stdin.reconfigure(encoding='utf-8')
-
 from openai import OpenAI
 from dotenv import load_dotenv
 import os
